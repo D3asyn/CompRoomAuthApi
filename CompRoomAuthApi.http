@@ -1,0 +1,6 @@
+@CompRoomAuthApi_HostAddress = http://localhost:5168
+
+GET {{CompRoomAuthApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
